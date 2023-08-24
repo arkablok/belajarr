@@ -5,4 +5,4 @@ Aplikasi ini dibuat oleh:
 2. Yudi 21545656
 3. Agus 2197890790
 
-Aplikasi merupakan ....
+Aplikasi merupakan aplikasi untuk belajar.
